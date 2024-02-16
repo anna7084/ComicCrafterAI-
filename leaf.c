@@ -14,9 +14,9 @@ int main()
   
         // inner loop 2 to print star * character 
         for (int k = 0; k < 2 * i + 1; k++) { 
-            printf("* "); 
+            printf("* ")
         } 
-        printf("\n"); 
+        printf("\n")
     } 
     return 0; 
 }
