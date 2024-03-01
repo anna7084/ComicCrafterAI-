@@ -1,2 +1,2 @@
 print Gethsia
-this is karunya university
+this is karunya 
