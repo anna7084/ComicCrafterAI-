@@ -2,6 +2,10 @@ ComicCrafter AI - AI-Powered Comic Generator
 ComicCrafter AI is an advanced AI-powered comic generator that creates stunning comic panels from text prompts. It uses Google's Gemma-3-4B-IT for generating comic scripts and ogkalu/Comic-Diffusion for producing high-quality comic-style images with dialogues placed inside circular speech bubbles.
 
 Features
+
+https://github.com/user-attachments/assets/470a4f67-a24c-485f-b6ab-3726cb42ec7f
+
+
 -AI-Generated Comic Scripts – Uses Gemma-3-4B-IT to create engaging comic dialogues.
 -AI-Generated Comic Panels – Uses ogkalu/Comic-Diffusion for high-quality, traditional comic-style images.
 -Speech Bubbles with Text – Automatically overlays AI-generated dialogues inside circular speech bubbles.
@@ -32,6 +36,10 @@ Final comic panels are displayed in sequence
 📢 Models Used
 LLM for Text Generation: google/gemma-3-4b-it
 Stable Diffusion for Image Generation: ogkalu/Comic-Diffusion (Optimized for comics)
+
+
+https://github.com/user-attachments/assets/816d9b72-53f9-4fca-bf1a-d535813c79ff
+
 
 🛠️ Future Improvements
 🔹 Improved dialogue placement inside speech bubbles
